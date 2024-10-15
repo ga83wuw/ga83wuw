@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Georgios Athanasiou.
-- 👀 I’m interested in Deep Learning.
-- 🌱 I’m currently working on my PhD in Deep Learning applications for medical data.
-- 💞️ I’m looking to collaborate on projects of applied deep learning to medicine.
+- 👋 Hi, I’m Dr. Georgios Athanasiou.
+- 👀 I’m interested in Deep Learning & Artificial Intelligence.
+- 🌱 I recently completed my PhD in Deep Learning applications for medical data.
+- 💞️ I’m looking to collaborate on projects of applied deep learning.
 - 📫 How to reach me: georgiospathanasiou@yahoo.com
 
 <!---
